@@ -10,8 +10,6 @@ I reverse engineered **ChatGPT's Free Web API** and made this simple python pack
 
 Both **Generative** & **Conversation** modes are supported.
 
-[<img style="margin-top: 10px" src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" width="160"/>](https://buymeacoffee.com/sonii)
-
 ## 📦 Installation
 ```python
 $ pip install progpt
@@ -51,11 +49,6 @@ print(bot.prompt("how are you?"))
 To overcome the free tier's rate limits:
 - Add time gap between prompts
 - Use multiple accounts
-
-## ❤️ Support Me
-If you're benefitting from my work and wish to support me, please consider visiting this link:
-
-[<img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" width="150"/>](https://buymeacoffee.com/sonii)
 
 ## 👮 Legal
 This is a third party library and not associated with OpenAI or ChatGPT. It's strictly for educational purposes. You are liable for all the actions you take.
